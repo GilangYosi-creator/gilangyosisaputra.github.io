@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gilangyosisaputra.github.io/sitemap.xml
